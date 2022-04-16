@@ -5,3 +5,5 @@ over time this repo will grow and hopefully be useful.
 updates should be regular check back often.
 
 # hResID
+
+# Special Thanks to nsamarasDev
